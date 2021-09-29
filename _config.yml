@@ -1,7 +1,36 @@
-title: brain dump
-email: blog.christoph@holas.name
-description: Far away from /dev/null. This is my space for jotting down notes that I'll surely forget.
-twitter_username: kracherlsepp
-github_username:  uniquepurpose
+# Your Name or Company
+title: Christoph Holas
 
-theme: jekyll-theme-architect
+# Description of your website. This is used for social sharing.
+description: Bio of Christoph Holas
+
+# A brief blurb about yourself
+#content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Retter und Ritter, Nichtraucher, lebe mit Herz und Hirn, eigenständig, verlässlich, Hobbylandwirt, Carnivore, technikaffin, tierlieb, der mit dem Jetski auf der Konobe, Naturbursch, Fotografie/Canon, Allrad, Motorrad/Suzuki, Bier/Guinness, ganze Bohne statt Kaffeekapsel, Star Wars und Star Trek is beides cool.
+# Add your social links
+social:
+  - platform: facebook
+    url: https://www.facebook.com/christoph.holas/
+  - platform: twitter
+    url: https://twitter.com/kracherlsepp
+  - platform: linkedin
+    url: https://www.linkedin.com/in/cholas/
+  - platform: xing
+    url: https://www.xing.com/profile/Christoph_Holas/
+  - platform: github
+    url: https://github.com/uniquepurpose
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
+markdown: kramdown
+sharing_image: kroatien.jpg
+#google_analytics: "UA-58263416-1" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center

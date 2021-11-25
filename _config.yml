@@ -10,15 +10,17 @@ content: Retter und Ritter, Nichtraucher, lebe mit Herz und Hirn, eigenständig,
 # Add your social links
 social:
   - platform: facebook
-    url: https://www.facebook.com/christoph.holas/
+    url: https://www.facebook.com/christoph.holas
   - platform: twitter
     url: https://twitter.com/kracherlsepp
   - platform: linkedin
-    url: https://www.linkedin.com/in/cholas/
+    url: https://www.linkedin.com/in/cholas
   - platform: xing
-    url: https://www.xing.com/profile/Christoph_Holas/
+    url: https://www.xing.com/profile/Christoph_Holas
   - platform: github
     url: https://github.com/uniquepurpose
+- platform: Konobe
+    url: https://www.Konobe.at
 
 # General settings
 # url: http://brianmaierjr.github.com/uni

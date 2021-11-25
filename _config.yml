@@ -19,8 +19,10 @@ social:
     url: https://www.xing.com/profile/Christoph_Holas
   - platform: github
     url: https://github.com/uniquepurpose
-  - platform: Konobe
+  - platform: konobe
     url: https://www.Konobe.at
+  - platform: waldweber
+    url: https://www.waldweber.at
 
 # General settings
 # url: http://brianmaierjr.github.com/uni

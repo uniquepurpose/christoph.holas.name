@@ -19,7 +19,7 @@ social:
     url: https://www.xing.com/profile/Christoph_Holas
   - platform: github
     url: https://github.com/uniquepurpose
-- platform: Konobe
+  - platform: Konobe
     url: https://www.Konobe.at
 
 # General settings

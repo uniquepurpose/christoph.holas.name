@@ -22,7 +22,7 @@ social:
   - platform: konobe
     url: https://www.Konobe.at
   - platform: waldweber
-    url: https://www.waldweber.at
+    url: http://www.waldweber.at
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
